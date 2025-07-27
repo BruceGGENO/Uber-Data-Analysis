@@ -50,5 +50,13 @@ Below there's the codes for analytical features such as:
 ## After applying the above changes I then saved the enhanced dataset to be used for Power BI import for visuals and analysis
 <img width="958" height="45" alt="10" src="https://github.com/user-attachments/assets/9897bcb5-5a77-4da2-af54-53a399bd9d40" />
 
+## POWER BI HISTOGRAMS
+### Fare patterns across different time intervals
+<img width="460" height="310" alt="11" src="https://github.com/user-attachments/assets/9c8c871c-ba17-4e8d-a7df-5734817c1f28" />
+
+### Hourly, daily, and monthly ride patterns
+
+<img width="702" height="169" alt="12" src="https://github.com/user-attachments/assets/66697cd4-ad63-4889-a046-ee82ee23114a" />
+
 # CONCLUSION
 ### As you can see, the first step was to import the original dataset but since it had some missing data, it had to be cleaned for proper analysis. After it was properly cleaned the new data was then put in another file which I named uber_enhanced. I then imported uber_enhanced in Power BI for the visuals through histograms.
